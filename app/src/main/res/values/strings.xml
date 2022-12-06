@@ -1,0 +1,162 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">F5R TV</string>
+
+    <!--intro screen-->
+    <string name="skip">تخطي</string>
+    <string name="next">التالي</string>
+    <string name="intro_1_title">Show Off</string>
+    <string name="intro_1_desc">عرض القناة على أساس الفئة ، الأحدث والمميزة تلعب أيضًا في المشغل الخارجي أيضًا</string>
+    <string name="intro_2_title">قناة Chromecast</string>
+    <string name="intro_2_desc">قم بتشغيل القناة في التلفزيون باستخدام Chromecast</string>
+    <string name="intro_3_title">فيديو يوتيوب</string>
+    <string name="intro_3_desc">قم بتشغيل Youtube Video وكذلك Live Youtube Video</string>
+
+    <!--Login/Register -->
+    <string name="welcome_back">مرحبًا بعودتك</string>
+    <string name="sign_into_continue">تسجيل الدخول للمتابعة</string>
+    <string name="name_login">الاسم</string>
+    <string name="email_login">البريد الإلكتروني</string>
+    <string name="password_login">كلمة المرور</string>
+    <string name="phone_login">هاتف</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forgot_password">نسيت رقمك السري ؟</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="sign_up">اشتراك</string>
+    <string name="register">سجل الان</string>
+    <string name="already_account">هل لديك حساب ؟</string>
+    <string name="forgot_description">أدخل عنوان بريدك الإلكتروني أدناه وسنرسل لك بريدًا إلكترونيًا يحتوي على كلمة مرور</string>
+    <string name="button_text_forgot_password">نسيت رقمك السري ؟</string>
+    <string name="please_enter_email">أدخل بريدك الإلكتروني</string>
+    <string name="send">ارسال</string>
+    <string name="update">تحديث</string>
+
+    <!--Navigation drawer -->
+    <string name="menu_home">Home</string>
+    <string name="menu_movie">أفلام</string>
+    <string name="menu_tv_series">مسلسل تلفزيوني</string>
+    <string name="menu_tv_channel">قناة تلفزيونية</string>
+    <string name="menu_favourite">المفضلة</string>
+    <string name="menu_profile">الملف الشخصي</string>
+    <string name="menu_setting">إعدادات</string>
+    <string name="menu_log_out">تسجيل خروج</string>
+    <string name="menu_log_in">تسجيل الدخول</string>
+    <string name="menu_recent">شوهدت مؤخرا</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="conne_msg1">لا يوجد اتصال شبكة</string>
+    <string name="loading">جار التحميل</string>
+    <string name="no_item_found">لم يتم العثور على عنصر</string>
+
+    <!--setting -->
+    <string name="enable_push">تمكين دفع الإشعارات</string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="more_app">المزيد من التطبيقات</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="about">حول</string>
+
+    <!--<about_us.xml string>-->
+    <string name="about_us_version">إصدار</string>
+    <string name="about_us_version_text">2.1.5(1020)</string>
+    <string name="about_us_author">المطور</string>
+    <string name="about_us_Company">شركة</string>
+    <string name="about_us_company_name">عباس العنزي</string>
+    <string name="about_us_email">البريد الإلكتروني</string>
+    <string name="about_us_email_text">info@يثرب5ق.com</string>
+    <string name="about_us_website">موقع الكتروني</string>
+    <string name="about_us_website_text">www.devf5r.com</string>
+    <string name="about_us_contact">اتصال</string>
+    <string name="about_us_contact_text">+962790791675</string>
+    <string name="about_us_about">حول</string>
+
+    <!-- if you want to RTL then put it true other wise it false-->
+    <string name="isRTL">true</string>
+
+    <string name="tag_line">مشاهدة البث التلفزيوني المباشر</string>
+    <string name="share_msg">مرحبًا ، أود مشاركة التطبيق المستخدم لتشغيل التلفزيون والأفلام مجانًا ، يرجى تنزيله من متجر Google Play مجانًا هنا</string>
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Viaan+Parmar</string>
+    <string name="back_key">الرجاء النقر فوق "رجوع" مرة أخرى للخروج</string>
+
+    <!--Details Screen -->
+    <string name="overview">ملخص</string>
+    <string name="report_here">ابلاغ عن عطل</string>
+    <string name="related_movie">أفلام ذات صلة</string>
+    <string name="related_series">سلسلة ذات صلة</string>
+    <string name="related_channel">قناة ذات صلة</string>
+    <string name="comments">تعليقات</string>
+    <string name="view_all">مشاهدة الكل</string>
+    <string name="leave_your_comment">اترك تعليقاتك.</string>
+    <string name="no_comment_found">لم يتم العثور على تعليق</string>
+    <string name="all_comment">كل تعليق</string>
+    <string name="season">الموسم</string>
+    <string name="no_episode_found">لم يتم العثور على حلقة</string>
+
+    <string name="rating">تقييم....</string>
+    <string name="rating_des">ما مدى احتمالية أن تنصح صديقًا بموفيت؟ (1-منخفض ، 5-مرتفع)</string>
+    <string name="submit">يُقدِّم</string>
+
+    <string name="report_message">إبلاغ عن رسالة</string>
+
+    <string name="favourite_add">تم حفظ المفضلة</string>
+    <string name="favourite_remove">تمت إزالة المفضلة</string>
+    <string name="no_fav"> لم يتم العثور على المفضلة</string>
+    <string name="search">بحث</string>
+    <string name="total_num_season">إجمالي عدد الموسم- %d</string>
+    <string name="triangle_down">\u25BC</string>
+
+    <!--home -->
+    <string name="home_category">فئات التلفزيون</string>
+    <string name="home_latest_movie">اخر الافلام</string>
+    <string name="home_tv_series">مسلسل تلفزيوني</string>
+    <string name="home_latest_channel">أحدث قناة</string>
+
+    <string name="logout_msg">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="login_first">يجب عليك تسجيل الدخول أولا لـ %s</string>
+    <string name="login_first_rate">تقييم</string>
+    <string name="login_first_comment">تعليق</string>
+    <string name="login_first_report">أبلغ عن</string>
+
+    <string name="youtube_api_key">AIzaSyAYJwy6nzCFqgr5LtihRI3YuVBb_34aprw</string>
+    <string name="try_again">حاول ثانية</string>
+    <string name="stream_not_found">للأسف لم يتم العثور على تيار url يرجى الإبلاغ عنه</string>
+    <string name="now_playing">الان العب</string>
+
+    <string name="genre">النوع</string>
+    <string name="language">اللغات</string>
+
+    <string name="admob_app_id">ca-app-pub-4935178554510860~3042293907</string>
+    <string name="default_notification_channel_id">AndroidLiveTVSeries</string>
+
+    <string name="privacy_url">http://apptific.com/PlayStore/Privacy-Policy.html</string>
+
+    <string name="count">%s مشاهدة</string>
+    <string name="casty_introduction_text">استخدم هذا الزر للاتصال بجهاز Chromecast</string>
+    <string name="cast_youtube">يوتيوب والرابط المضمن المباشر لا يلقي</string>
+    <string name="cast_play_custom">اللعب في Chromecast متصل</string>
+
+    <string name="invalid_license">ترخيص غير صالح</string>
+    <string name="license_msg">أنت تستخدم ترخيصًا غير صالح أو أن اسم الحزمة قيد الاستخدام بالفعل ، لمزيد من المعلومات اتصل بنا: info@devf5r.com أو عبر vi devf5r@gmail.com</string>
+    <string name="something_went">حدث خطأ ما يرجى إعادة تشغيل التطبيق</string>
+    <string name="user_disable">قام المسؤول بتعطيلك أو حذفك كمستخدم</string>
+
+    <!--player setting-->
+    <string name="player_setting">الإعدادات</string>
+    <string name="quality">جودة</string>
+    <string name="quality_default">إفتراضي</string>
+    <string name="quality_420p">420p</string>
+    <string name="quality_720p">720p</string>
+    <string name="quality_1080p">1080p</string>
+    <string name="sub_titles">ترجمات</string>
+    <string name="off_sub_title">ايقاف</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">الغاء</string>
+
+    <string name="sign_in_accept">بتسجيل الدخول أنت تقبل %s </string>
+    <string name="sign_up_accept">بالتسجيل فإنك تقبل %s </string>
+    <string name="please_accept">الرجاء تحديد مربع الاختيار قبول</string>
+
+    <string name="onesignal_app_id" tools:ignore="TypographyDashes">ac12187c-17a7-4f01-84e9-36ac2d9ec1d6</string>
+</resources>

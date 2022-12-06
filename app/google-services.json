@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "659672957230",
+    "firebase_url": "https://devf5rtv-default-rtdb.firebaseio.com",
+    "project_id": "devf5rtv",
+    "storage_bucket": "devf5rtv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659672957230:android:b630e8bf375731bf63fabf",
+        "android_client_info": {
+          "package_name": "com.devf5r.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659672957230-r6ip8vrc950j1sjsvtd459krq4hfgf09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT26DJBv7-1JfbgsJWX4JXKc46FqG2GaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659672957230-r6ip8vrc950j1sjsvtd459krq4hfgf09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659672957230:android:6e3cb335988b7f4263fabf",
+        "android_client_info": {
+          "package_name": "com.devf5r.yochannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659672957230-r6ip8vrc950j1sjsvtd459krq4hfgf09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT26DJBv7-1JfbgsJWX4JXKc46FqG2GaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659672957230-r6ip8vrc950j1sjsvtd459krq4hfgf09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
